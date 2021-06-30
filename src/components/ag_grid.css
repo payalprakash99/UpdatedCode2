@@ -1,0 +1,17 @@
+.ag-row-hover {
+    /* putting in !important so it overrides the theme's styling as it hovers the row also */
+    background-color: #cce5ff !important;
+}
+.ag-row{
+    border: none;
+}
+.ag-column{
+    border:none;
+}
+.ag-column-hover {
+    background-color: #cce5ff;
+}
+
+.ag-header-cell-label .ag-header-cell-text {
+    white-space: normal !important;
+  }
